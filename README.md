@@ -12,10 +12,10 @@ const emi = {
   tools: [Redis, Rails, MySQL, PostgreSQL, VSCode, Git],
   architecture: ["Microservices", "Serverless Architectures"],
   techCommunities: {
-                        UTFPR: "Emilias",
-                        SBC: "MeninasDigitais",
-                        World: "GirlsWhoCode"
-                      },
+    UTFPR: "Emilias",
+    SBC: "MeninasDigitais",
+    SP: "RailsGirlsSP"
+  },
 }
 ```
 
@@ -23,3 +23,10 @@ const emi = {
 📩 How to reach me: my contact form [Here](https://www.linkedin.com/in/emica-oliveira-da-costa-20615b145/)
 ---
 
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
